@@ -1,1 +1,0 @@
-document.getElementById("imagem").innerHTML = "<img src='img/images-removebg-preview.png' width= '250' >";
